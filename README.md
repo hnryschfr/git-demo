@@ -8,4 +8,6 @@ This is the first file in this repo.
 
 ## web site content
 
+Here are the files in the Web site
+
 1. index.html
